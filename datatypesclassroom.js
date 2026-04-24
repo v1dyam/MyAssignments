@@ -13,5 +13,5 @@
      let hasplaywright;
     console.log(hasplaywright)
     
-      companyName="virtusa";
-    console.log(typeof "companyName")
+      company="virtusa";
+    console.log(typeof "company")
