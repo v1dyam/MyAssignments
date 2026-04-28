@@ -1,8 +1,8 @@
 
 function OddorEven(num){
 
-{
-    if (num%2===0)
+
+    if (num%2===0){
   console.log ("it is an  even number");
 
     } else {
